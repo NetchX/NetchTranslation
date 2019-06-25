@@ -1,0 +1,66 @@
+{
+    ": ": "：",
+    "Information": "資訊",
+
+    "Start": "啟動",
+    "Stop": "停止",
+    "Waiting for command": "等待命令中",
+    "Starting": "正在啟動中",
+    "Start failed": "啟動失败",
+    "Started": "已啟動",
+    "Stopping": "正在停止中",
+    "Stopped": "已停止",
+    
+    "Server": "伺服器",
+    "Add [Socks5] Server": "添加 [Socks5] 伺服器",
+    "Add [Shadowsocks] Server": "添加 [Shadowsocks] 伺服器",
+    "Add [ShadowsocksR] Server": "添加 [ShadowsocksR] 伺服器",
+    "Add [VMess] Server": "添加 [VMess] 伺服器",
+    "Import Servers From Clipboard": "从剪貼簿匯入伺服器",
+
+    "Address": "地址",
+    "Username": "用戶名",
+    "Password": "密碼",
+    "Encrypt Method": "加密方法",
+    "Saved": "保存成功",
+    
+    "Subscribe": "訂閲",
+    "Manage Subscribe Links": "管理伺服器訂閲",
+    "Update Servers From Subscribe Links": "更新伺服器訂閲",
+    "No subscription link": "沒有訂閲連結",
+    "Updating in the background": "在背景執行更新中",
+    "Update completed": "更新成功",
+
+    "Fast Create Mode": "快速建立模式",
+    
+    "About": "關於",
+    "Telegram Group": "Telegram 群組",
+    "Telegram Channel": "Telegram 頻道",
+
+    "Configuration": "設定檔",
+    "Mode": "模式",
+
+    "Please press Stop button first": "請先按下停止按鈕",
+    "Please select an server first": "請先選擇一個伺服器",
+    "Please select an mode first": "請先選擇一個模式",
+
+    "Status": "狀態",
+
+    "Remark": "注釋",
+    "Add": "添加",
+    "Scan": "掃描",
+    "Save": "保存",
+    "Please enter an process name (xxx.exe)": "請輸入一個進程名稱（xxx.exe）",
+    "Scan completed": "掃描完畢",
+    "Mode added successfully": "模式添加成功",
+    "Unable to add empty rule": "無法添加空規則",
+    "Please enter a mode remark": "请输入模式的注釋",
+
+    "Link": "連結",
+    "Delete": "刪除",
+    "Delete or not ? Will clean up the corresponding group of items in the server list": "確認刪除？這會清空伺服器列表的對應伺服器",
+    "Remark can not be empty": "注釋不可爲空",
+    "Link can not be empty": "連結不可爲空",
+    "Link must start with http:// or https://": "連結必須以 http:// 或 https:// 開頭",
+    "Successfully saved": "保存成功"
+}
