@@ -4,6 +4,9 @@
     "Error": "錯誤",
 
     "Netch is already running": "Netch 已經在運行",
+    "Netch is not compatible with your system.": "Netch 和你的系统不兼容",
+    "Current arch of Netch:": "目前 Netch 架構:",
+    "Current arch of system:": "目前系統架構:",
 
     "Start": "啟動",
     "Stop": "停止",
@@ -43,6 +46,8 @@
     "OBFS": "混淆",
     "OBFS Param": "混淆參數",
     "Saved": "保存成功",
+    "Plugin": "外掛程式",
+    "Plugin Options": "外掛參數",
     
     "Subscribe": "訂閲",
     "Manage Subscribe Links": "管理伺服器訂閲",
@@ -58,10 +63,13 @@
     "Service has been uninstalled": "服務已卸載",
     "Reload Modes": "重新載入模式",
     "Modes have been reload": "模式已重新載入",
+    "Modes have been reload": "模式已重载",
+    "Clean DNS Cache": "清理 DNS 快取",
+    "DNS cache cleanup succeeded": "DNS 快取清理成功",
 
     "About": "關於",
-    "Telegram Group": "Telegram 群組",
     "Telegram Channel": "Telegram 頻道",
+    "Sponsor": "贊助商",
 
     "Configuration": "設定檔",
 
@@ -69,9 +77,17 @@
     "Please select a server first": "請先選擇一個伺服器",
     "Please select an mode first": "請先選擇一個模式",
 
+
+    "Used": "使用中",
     "Status": "狀態",
+    "Testing": "測試中",
+    "Test done": "測試完畢",
 
     "Remark": "注釋",
+    "Filename": "文檔名",
+    "Use Custom Filename": "使用自定義的文檔名",
+    "Stay the same": "保持一致",
+    "Time data": "時間資訊",
     "Add": "添加",
     "Scan": "掃描",
     "Save": "保存",
@@ -83,6 +99,7 @@
     "Please enter a mode remark": "请输入模式的注釋",
 
     "Link": "連結",
+    "Use Selected Server To Update Subscription": "使用選中的伺服器更新訂閱",
     "Delete": "刪除",
     "Delete or not ? Will clean up the corresponding group of items in the server list": "確認刪除？這將會清空伺服器列表的對應伺服器",
     "Remark can not be empty": "注釋不可爲空",
@@ -90,10 +107,21 @@
     "Link must start with http:// or https://": "連結必須以 http:// 或 https:// 開頭",
     "Successfully saved": "保存成功",
 	
-	"Settings": "設置",
-	"Netmask": "子網路遮罩",
-	"Gateway": "預設閘道",
-	"Use Custom DNS": "使用自定義 DNS 伺服器",
-	"Global Bypass IPs": "全局直連 IP"
-	
+    "Settings": "設置",
+    "Start when opened": "打开软件时启动加速",
+    "Local Port": "本機連接埠",
+    "Allow other Devices to connect": "允許傳入連接",
+    "Netmask": "子網路遮罩",
+    "Gateway": "預設閘道",
+    "Use Custom DNS": "使用自定義 DNS",
+    "Use Fake DNS": "使用 Fake DNS",
+    "Behavior": "行為",
+    "Exit when closed": "關閉時退出",
+    "Stop when exited": "退出時停止",
+    "Global Bypass IPs": "全局直連 IP"
+
+    "Port value illegal. Try again.": "連接埠非法，請重試。",
+    
+    "Show": "顯示",
+    "Exit": "退出"
 }
