@@ -16,7 +16,7 @@
     "Started": "已啟動",
     "Stopping": "正在停止中",
     "Stopped": "已停止",
-    
+
     "Server": "伺服器",
     "Import Servers From Clipboard": "从剪貼簿匯入伺服器",
     "Add [Socks5] Server": "添加 [Socks5] 伺服器",
@@ -25,6 +25,7 @@
     "Add [VMess] Server": "添加 [VMess] 伺服器",
     "VMess is currently not supported. For more information, please see our Github releases\n\nPress OK will redirect": "目前不支援 VMess 伺服器。需要更多資訊請查看我們的 Github 發佈頁\n\n點擊 OK 將會轉跳",
     "Netch is now minimized to the notification bar, double click this icon to restore.": "Netch 已最小化至狀態欄，雙擊圖標以恢復窗口。",
+    "New version available": "新版本可用",
     "Mode": "模式",
     "Create Process Mode": "建立進程模式",
 
@@ -40,6 +41,7 @@
     "QUIC Security": "QUIC 加密方式",
     "QUIC Secret": "QUIC 加密密鑰",
     "TLS Secure": "TLS 底层传输安全",
+    "Use Mux": "Mux 多路復用",
     "Encrypt Method": "加密方式",
     "Protocol": "協議",
     "Protocol Param": "協議參數",
@@ -58,12 +60,13 @@
     
     "Options": "選項",
     "Restart Service": "重新啓動服務",
+    "Restarting service": "正在重新啓動服務中",
     "Service has been restarted": "服務已重新啓動",
     "Uninstall Service": "卸載服務",
+    "Uninstalling Service": "正在卸載服務中",
     "Service has been uninstalled": "服務已卸載",
     "Reload Modes": "重新載入模式",
     "Modes have been reload": "模式已重新載入",
-    "Modes have been reload": "模式已重载",
     "Clean DNS Cache": "清理 DNS 快取",
     "DNS cache cleanup succeeded": "DNS 快取清理成功",
 
@@ -76,7 +79,6 @@
     "Please press Stop button first": "請先按下停止按鈕",
     "Please select a server first": "請先選擇一個伺服器",
     "Please select an mode first": "請先選擇一個模式",
-
 
     "Used": "使用中",
     "Status": "狀態",
@@ -114,13 +116,16 @@
     "Netmask": "子網路遮罩",
     "Gateway": "預設閘道",
     "Use Custom DNS": "使用自定義 DNS",
-    "Use Fake DNS": "使用 Fake DNS",
     "Behavior": "行為",
     "Exit when closed": "關閉時退出",
     "Stop when exited": "退出時停止",
-    "Global Bypass IPs": "全局直連 IP"
-
+    "Global Bypass IPs": "全局直連 IP",
     "Port value illegal. Try again.": "連接埠非法，請重試。",
+    "Check update when opened": "打開軟體時檢查更新",
+	
+    "Profile Name": "Profile Name",
+    "Profiles": "Profiles",
+    "None": "無",
     
     "Show": "顯示",
     "Exit": "退出"
