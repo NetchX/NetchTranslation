@@ -123,8 +123,8 @@
     "Port value illegal. Try again.": "連接埠非法，請重試。",
     "Check update when opened": "打開軟體時檢查更新",
 	
-    "Profile Name": "Profile Name",
-    "Profiles": "Profiles",
+    "Profile": "設定檔",
+    "Profiles": "模式",
     "None": "無",
     
     "Show": "顯示",
