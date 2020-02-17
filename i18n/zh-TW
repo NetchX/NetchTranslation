@@ -27,7 +27,7 @@
     "Netch is now minimized to the notification bar, double click this icon to restore.": "Netch 已最小化至狀態欄，雙擊圖標以恢復窗口。",
     "New version available": "檢測到有新版本可供更新",
     "Mode": "模式",
-    "Create Process Mode": "建立進程模式",
+    "Create Process Mode": "建立程序模式",
 
     "Address": "地址",
     "Username": "用戶名",
@@ -86,8 +86,8 @@
     "Test done": "測試完畢",
 
     "Remark": "注釋",
-    "Filename": "文檔名",
-    "Use Custom Filename": "使用自訂的文檔名",
+    "Filename": "檔名",
+    "Use Custom Filename": "使用自訂檔名",
     "Stay the same": "使用注釋作為檔名",
     "Time data": "使用時間戳作為檔名",
     "Add": "添加",
@@ -98,7 +98,7 @@
     "Scan completed": "掃描完畢",
     "Mode added successfully": "模式添加成功",
     "Unable to add empty rule": "無法添加空規則",
-    "Please enter a mode remark": "請输入模式的注釋",
+    "Please enter a mode remark": "請輸入模式的注釋",
 
     "Link": "連結",
     "Use Selected Server To Update Subscription": "使用選中的伺服器更新訂閱",
