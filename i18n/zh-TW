@@ -119,6 +119,8 @@
 
     "Settings": "設定",
     "Start when opened": "打開軟體時啟動加速",
+    "Minimize when started": "啟動加速後最小化到系統匣",
+    "Run at startup": "開機自動啟動",
     "Local Port": "本地連接埠",
     "Allow other Devices to connect": "允許外部設備連入",
     "Netmask": "子網域遮罩",
