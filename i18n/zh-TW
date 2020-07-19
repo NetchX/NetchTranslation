@@ -3,10 +3,8 @@
     "Information": "資訊",
     "Error": "錯誤",
 
+    "If this is your first time using this software,\n please check https://netch.org to install supports first,\n or the program may report errors.": "如果你是第一次使用本軟體，\n請務必前往https://netch.org安裝程式所需依賴，\n否則程式將無法正常運行！",
     "Netch is already running": "Netch 已經在執行中",
-    "Netch is not compatible with your system.": "Netch 和你的系統不相容",
-    "Current arch of Netch:": "目前 Netch 架構：",
-    "Current arch of system:": "目前系統架構：",
 
     "Start": "啟動",
     "Stop": "停止",
@@ -16,10 +14,7 @@
     "Started": "已啟動",
     "Stopping": "正在停止",
     "Stopped": "已停止",
-    "Starting Shadowsocks": "正在啟動 Shadowsocks",
-    "Starting ShadowsocksR": "正在啟動 ShadowsocksR",
-    "Starting V2ray": "正在啟動 V2Ray",
-    "Starting Trojan": "正在啟動 Trojan",
+    "Starting ": "正在啟動 ",
     "Starting Tap": "正在啟動 TUN/TAP",
     "Starting NatTester": "正在啟動 NAT 測試",
     "Starting LocalDns service": "正在啟動本機 DNS 服務",
@@ -42,12 +37,10 @@
     "Add [ShadowsocksR] Server": "新增 [ShadowsocksR] 伺服器",
     "Add [VMess] Server": "新增 [VMess] 伺服器",
     "Add [Trojan] Server": "新增 [Trojan] 伺服器",
-    "VMess is currently not supported. For more information, please see our Github releases\n\nPress OK will redirect": "目前不支援 VMess 伺服器。需要更多資訊請查看我們的 Github 發布頁\n\n點擊 OK 將會跳轉",
     "Netch is now minimized to the notification bar, double click this icon to restore.": "Netch 已最小化至通知欄，雙擊圖示還原視窗。",
     "New version available": "發現新版本",
     "Mode": "模式",
     "Create Process Mode": "建立程序模式",
-    "Manage Process Mode": "管理程序模式",
     "Edit Process Mode": "修改程序模式",
 
     "Address": "位址",
@@ -81,9 +74,6 @@
     "Update servers error from {0}": "從 {0} 更新伺服器失敗",
 
     "Options": "選項",
-    "Restart Service": "重新啟動服務",
-    "Restarting service": "正在重新啟動服務",
-    "Service has been restarted": "服務已重新啟動",
     "Uninstall Service": "解除安裝服務",
     "Uninstalling Service": "正在解除安裝服務",
     "Service has been uninstalled": "服務已解除安裝",
@@ -99,6 +89,7 @@
     "Reinstall TUN/TAP driver successfully": "重新安裝 TUN/TAP 驅動成功",
     "Reinstall TUN/TAP driver failed": "重新安裝 TUN/TAP 驅動失敗",
     "Reinstalling TUN/TAP driver": "正在重新安裝 TUN/TAP 驅動",
+    "Open Directory": "打開資料夾",
 
     "About": "關於",
     "Telegram Channel": "Telegram 頻道",
@@ -111,6 +102,8 @@
     "Please select an mode first": "請先選擇一個模式",
     "Please enter a profile name first": "請先為該設定檔命名",
     "No saved profile here. Save a profile first by Ctrl+Click on the button": "目前按鈕下沒有儲存設定檔，請先使用 CTRL + 左鍵 點擊該按鈕儲存一個設定檔",
+    "Remove this Profile?": "刪除此設定檔？",
+    "Profile Removed!": "設定檔已刪除！",
 
     "Used": "已使用",
     "Status": "狀態",
@@ -144,7 +137,7 @@
     "Remark can not be empty": "備註不可以空白",
     "Link can not be empty": "連結不可以空白",
     "Link must start with http:// or https://": "連結必須以 http:// 或 https:// 開頭",
-    "Successfully saved": "儲存成功",
+    "Please fill in alterID": "請填寫額外ID",
 
     "Settings": "設定",
     "Start when opened": "開啟軟體時自動啟動加速",
@@ -164,13 +157,12 @@
     "Port value illegal. Try again.": "無效的連接埠，請重試。",
     "Check update when opened": "開啟軟體時自動檢查更新",
     "Start Shadowsocks from DLL (No support for ACL)": "SS DLL（推薦使用，不支援 ACL）",
-    "ProfileCount": "設定檔數量（重新啟動後生效）",
+    "ProfileCount": "設定檔數量",
     "ProfileCount value illegal. Try again.": "無效的設定檔數值，請重試。",
     "STUN_ServerPort value illegal. Try again.": "無效的 STUN 埠數值，請重試。",
     "Detection interval value illegal. Try again.": "無效的檢測間隔值，請重試。",
     "TUN/TAP driver is not detected. Is it installed now?": "未偵測到 TUN/TAP 驅動，是否現在安裝？",
     "Failed to set the system proxy, it may be caused by the lack of dependent programs. Do you want to jump to Netch's official website to download dependent programs?": "設定系統代理失敗，可能是缺少相依的程式導致，是否轉移至 Netch 官網下載？",
-    "Experimental function": "實驗性功能",
     "Delay test after start": "啟動後延遲測試",
     "Enable": "啟用",
     "Detection interval(sec)": "檢測間隔（秒）",
@@ -178,14 +170,16 @@
     "STUN Server Port": "STUN 伺服器埠",
     "Custom ACL": "自訂 ACL 規則",
     "Language": "語言",
-    "Saved. Modify some settings need to restart the software": "儲存成功，修改部分設定需重新啟動軟體",
-    
+
     "Profile": "設定檔",
     "Profiles": "模式",
     "None": "無",
 
     "Show": "顯示",
     "Exit": "結束",
+    "Unable to start? Click me to download": "無法啟動? 點我下載依賴",
+
+    "The {0} port is in use.": "{0} 埠已被佔用",
 
     "Bypass LAN": "[網頁代理] 繞過區域網路",
     "Bypass LAN (Non System Proxy)": "[網頁代理] 繞過區域網路（不設定系統代理）",
