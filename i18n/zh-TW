@@ -153,7 +153,7 @@
     "Check update when opened": "開啟軟體時自動檢查更新",
     "Check Beta update": "檢查 Beta 更新",
     "Update subscribeat when opened": "自動更新訂閱",
-    "SS DLL(No ACL support)": "SS DLL（不支援 ACL）",
+    "SS DLL": "SS DLL",
     "Modify System DNS": "修改系統 DNS",
     "ProfileCount": "設定檔數量",
     "ProfileCount value illegal. Try again.": "無效的設定檔數值，請重試。",
@@ -169,6 +169,7 @@
     "Custom ACL": "自訂 ACL 規則",
     "Language": "語言",
     "Tap Network Sharing": "Tap 網路共享",
+    "Resolve Server Hostname": "解析伺服器主機名稱",
     
     "Profile": "設定檔",
     "Profiles": "模式",
@@ -180,10 +181,10 @@
 
     "The {0} port is in use.": "連接埠 {0} 已被佔用",
 
-    "[Web Proxy] Bypass LAN": "[網頁代理] 繞過區域網路",
-    "[Non Web Proxy] Bypass LAN": "[不設定網頁代理] 繞過區域網路",
+    "[Web Proxy] Bypass LAN": "[系統代理] 繞過區域網路",
+    "[Non Web Proxy] Bypass LAN": "[不設定系統代理] 繞過區域網路",
     "[TUN/TAP] Bypass LAN": "[TUN/TAP] 繞過區域網路",
-    "[Web Proxy] Bypass LAN and China": "[網頁代理] 繞過區域網路和中國大陸",
-    "[Non Web Proxy] Bypass LAN and China": "[不設定網頁代理] 繞過區域網路和中國大陸",
+    "[Web Proxy] Bypass LAN and China": "[系統代理] 繞過區域網路和中國大陸",
+    "[Non Web Proxy] Bypass LAN and China": "[不設定系統代理] 繞過區域網路和中國大陸",
     "[TUN/TAP] Bypass LAN and China": "[TUN/TAP] 繞過區域網路和中國大陸"
 }
