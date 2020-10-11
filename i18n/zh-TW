@@ -153,7 +153,7 @@
     "Check update when opened": "開啟軟體時自動檢查更新",
     "Check Beta update": "檢查 Beta 更新",
     "Update subscribeat when opened": "自动更新订阅",
-    "SS DLL (No ACL support)": "SS DLL（不支援 ACL）",
+    "SS DLL": "SS DLL",
     "Modify System DNS": "修改系统 DNS",
     "ProfileCount": "設定檔數量",
     "ProfileCount value illegal. Try again.": "無效的設定檔數值，請重試。",
@@ -169,6 +169,7 @@
     "Custom ACL": "自訂 ACL 規則",
     "Language": "語言",
     "Tap Network Sharing": "Tap 网络共享",
+	"Resolve Server Hostname": "解析伺服器主機名",
 
     "Profile": "設定檔",
     "Profiles": "模式",
