@@ -171,8 +171,8 @@
     "Tap Network Sharing": "Tap ネットワーク共有",
 	"Resolve Server Hostname": "サーバーホスト名を解決する",
 
-    "Profile": "設定プロファイル",
-    "Profiles": "モード",
+    "Profile": "設定プロファイル名",
+    "Profiles": "設定プロファイル",
     "None": "なし",
 
     "Show": "表示",
