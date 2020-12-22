@@ -169,10 +169,10 @@
     "Custom ACL": "カスタム ACL 規則",
     "Language": "言語",
     "Tap Network Sharing": "Tap ネットワーク共有",
-	"Resolve Server Hostname": "サーバーホスト名を解決する",
+    "Resolve Server Hostname": "サーバーホスト名を解決する",
 
-    "Profile": "設定プロファイル名",
-    "Profiles": "設定プロファイル",
+    "Profile": "Profile",
+    "Profiles": "Profiles",
     "None": "なし",
 
     "Show": "表示",
