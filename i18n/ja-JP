@@ -66,6 +66,7 @@
     "Subscribe": "サブスクリプション",
     "Manage Subscribe Links": "サブスクリプションリンクを管理",
     "Update Servers From Subscribe Links": "サブスクリプションからサーバー設定を更新",
+    "Update Servers From Subscribe Links With Proxy": "プロキシでサブスクリプションからサーバー設定を更新",
     "No subscription link": "サブスクリプションリンクがありません",
     "Updating {0}": "{0} を更新中",
     "Update {1} server(s) from {0}": "{0} から {1} つサーバーが更新されました",
@@ -197,6 +198,7 @@
     "Unable to start? Click me to download": "起動できませんか？ここにクリックして要件をダウンロードしましょう",
 
     "The {0} port is in use.": "ポート {0} がすでに使用されました",
+    "The {0} port is reserved by system.": "{0} がシステムに予約されました",
 
     "[Web Proxy] Bypass LAN": "[ウェブプロキシ] LANアドレスを無視",
     "[Non Web Proxy] Bypass LAN": "[非ウェブプロキシ]LAN アドレスを無視",
