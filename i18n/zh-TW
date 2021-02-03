@@ -66,6 +66,7 @@
     "Subscribe": "訂閱",
     "Manage Subscribe Links": "管理訂閱連結",
     "Update Servers From Subscribe Links": "從訂閱連結更新伺服器",
+    "Update Servers From Subscribe Links With Proxy": "使用代理從訂閱鏈接更新伺服器",
     "No subscription link": "没有任何訂閱連結可供更新",
     "Updating {0}": "正在更新 {0}",
     "Update {1} server(s) from {0}": "已從 {0} 更新 {1} 個伺服器",
@@ -197,6 +198,7 @@
     "Unable to start? Click me to download": "無法啟動? 點我下載相依套件",
 
     "The {0} port is in use.": "連接埠 {0} 已被佔用",
+    "The {0} port is reserved by system.": "連接埠 {0} 是系統保留連接埠",
 
     "[Web Proxy] Bypass LAN": "[系統代理] 繞過區域網路",
     "[Non Web Proxy] Bypass LAN": "[不設定系統代理] 繞過區域網路",
