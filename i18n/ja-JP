@@ -133,7 +133,7 @@
     "Add / Modify": "保存/変更",
     "Select a folder": "フォルダを選択",
     "Please enter an process name (xxx.exe)": "プロセス名を入力（xxx.exe）",
-    "Rule does not conform to C++ regular expression syntax": "ルールがC ++正規表現構文に準拠していません",
+    "Rule does not conform to C++ regular expression syntax": "ルールがC++正規表現構文に準拠していません",
     "Scan completed": "スキャン完了",
     "Mode added successfully": "新規モード完了",
     "Mode updated successfully": "モード編集完了",
