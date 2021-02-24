@@ -41,6 +41,8 @@
     "Download update failed": "更新に失敗しました",
     "Create Process Mode": "新規プロファイル",
     "Edit Process Mode": "プロファイルを編集",
+    "Create Route Table Rule": "新規ルートテーブル規則",
+    "Edit Route Table Rule": "ルートテーブル規則を編集",
 
     "Address": "サーバーアドレス",
     "Username": "ユーザー名",
